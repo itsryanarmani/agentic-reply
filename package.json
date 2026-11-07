@@ -34,7 +34,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-reply",
+  "mcpName": "io.github.itsryanarmani/agentic-reply",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
